@@ -1,0 +1,1 @@
+[2026-06-29T11:11:01.161+0000] {task_context_logger.py:104} ERROR - Executor reports task instance <TaskInstance: clickstream_etl_pipeline.submit_spark_etl_job scheduled__2026-06-29T10:40:00+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?

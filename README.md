@@ -124,6 +124,4 @@ check_postgres_health ┘
 
 ---
 
-## 📄 Resume Bullet
 
-> Orchestrated AWS Glue ETL workflows using Apache Airflow DAGs (Docker-based); built real-time Kafka → Spark Structured Streaming → PostgreSQL pipeline with a Streamlit dashboard, fully containerized with Docker Compose.
